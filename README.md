@@ -33,7 +33,7 @@ A [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) server that c
 ## Installation
 
 ```bash
-git clone https://github.com/joro75/alm_mcp.git
+git clone --branch feat/assign-items --single-branch https://github.com/volodymyrkorobkin/alm_mcp.git
 cd alm_mcp
 python -m pip install -r requirements.txt
 ```
